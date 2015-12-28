@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[joebeta]]></title>
+        <description><![CDATA[joebeta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 14:18:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Specialties]]></title>
+            <description><![CDATA[<article><h1>Specialties</h1><p>Wendy Perello</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cddfbd2aeeda36ca8bb750863a9bce55696ae23.jpg"></article>]]></description>
+            <link>undefinedwendy-perello/index.html</link>
+            <guid isPermaLink="false">f124005d-cca3-4388-85d6-eee8f2c157f4</guid>
+            <pubDate>Mon, 28 Dec 2015 14:18:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
